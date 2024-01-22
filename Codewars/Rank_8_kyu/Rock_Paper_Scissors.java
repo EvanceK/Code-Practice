@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 import java.util.Objects;
 
 /**

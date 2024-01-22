@@ -1,4 +1,4 @@
-package Rank_7_kyu;
+package Rank7kyu;
 
 import java.util.HashSet;
 import java.util.Set;

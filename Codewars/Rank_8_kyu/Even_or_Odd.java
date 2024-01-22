@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 public class Even_or_Odd {
 //    Rank:8 kyu
 //    Description:

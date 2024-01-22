@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 /**
  * ClassName: Return_Negative
  * ClassName: PACKAGE_NAME

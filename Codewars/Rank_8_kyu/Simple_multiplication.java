@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 public class Simple_multiplication {
 
 //    Description:

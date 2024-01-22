@@ -1,4 +1,4 @@
-package Rank_7_kyu;
+package Rank7kyu;
 
 /**
  * ClassName: You_are_a_square

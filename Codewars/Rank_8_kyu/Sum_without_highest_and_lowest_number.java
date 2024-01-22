@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 import java.util.*;
 
 public class Sum_without_highest_and_lowest_number {

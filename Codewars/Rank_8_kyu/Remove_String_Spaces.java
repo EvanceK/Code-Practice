@@ -1,3 +1,5 @@
+package Rank8kyu;
+
 public class Remove_String_Spaces {
 
 //    Description:
